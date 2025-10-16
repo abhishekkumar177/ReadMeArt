@@ -81,25 +81,9 @@ Of course\! Here is the complete set of Markdown code snippets for all the theme
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=onestar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
 
 
-### ⚡ Radical
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=radical&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
-
-
 ### ☀️ Solarized Dark
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=solarized_dark&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
-
-
-
-### ☀️ Solarized Light
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=solarized_light&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
-
-
-### 🌃 Tokyo Night
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=tokyonight&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
 
 
 ### 🌫️ Transparent
