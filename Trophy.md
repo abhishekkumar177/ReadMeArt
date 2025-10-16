@@ -42,4 +42,66 @@ Of course\! Here is the complete set of Markdown code snippets for all the theme
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=solarized_light&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
 
-Now you can showcase all the different styles on your profile. Would you like me to find code for another GitHub README widget?
+### 🙏 Buddhism
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=buddhism&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+
+\#\#\#칠판 Chalk
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=chalk&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+### ⚫ Dark Dimmed
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=dark_dimmed&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+### 💬 Discord
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+### 🟥 Flat
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=flat&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+### 🐒 Monokai
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=monokai&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+### 🖤 Onedark
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=onedark&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+### ⭐ Onestar
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=onestar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+### ⚡ Radical
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=radical&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+### ☀️ Solarized Dark
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=solarized_dark&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+
+### ☀️ Solarized Light
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=solarized_light&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+### 🌃 Tokyo Night
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=tokyonight&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+
+### 🌫️ Transparent
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=transparent&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
