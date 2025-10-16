@@ -1,5 +1,6 @@
 Absolutely\! Here is the complete collection of code snippets for all available themes for the `github-readme-streak-stats` widget. You can pick the one that best fits the style of your README.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Algolia
 
