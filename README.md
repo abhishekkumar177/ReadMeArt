@@ -8,6 +8,8 @@ Absolutely\! Here is the complete collection of code snippets for all available 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=algolia&hide_border=true"/>
 
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=discord&hide_border=true"/>
+
 
 
 ### Bamboo
