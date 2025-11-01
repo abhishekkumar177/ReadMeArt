@@ -2,6 +2,18 @@ Absolutely\! Here is the complete collection of code snippets for all available 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 GitHub Status
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark" width="100%"/><br>
+  
+  <table >
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekkumar177&theme=github_dark&utcOffset=8" width="100%"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekkumar177&theme=github_dark" width="100%"/></td>
+    </tr>
+  </table>
+</div>
+
 ### Algolia
 
 
