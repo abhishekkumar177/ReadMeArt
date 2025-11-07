@@ -32,26 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-bg=true&margin-w=10&no-frame=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177\&theme=neon\&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=abhishekkumar177\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177\&theme=radical\&hide_border=true\&layout=compact)
-
-</div>
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="center">
