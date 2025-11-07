@@ -1,13 +1,3 @@
-Perfect 😎 — let’s build your **final, professional, and visually stunning GitHub profile README** based on your content + my refined layout ideas.
-
-This version:
-
-* Fixes all broken links
-* Aligns visuals beautifully
-* Matches your *cyberpunk hacker aesthetic* (green/black theme)
-* Keeps everything clean and responsive on GitHub
-
----
 
 # 🧠 Abhishek Kumar — Developer | Problem Solver | Tech Enthusiast
 
