@@ -6,13 +6,7 @@
 
 ---
 
-## 🚀 About Me
 
-💡 Passionate about crafting scalable backend systems, designing efficient databases, and solving complex problems.
-🎯 Currently exploring **Spring Boot**, **React**, and **Full-Stack Development**.
-🧩 Aiming to build tech that makes an impact.
-
----
 
 <a target="_blank" align="right">
   <img align="right" height="250" width="380" alt="Coding GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
