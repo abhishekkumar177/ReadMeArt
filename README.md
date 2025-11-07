@@ -1,8 +1,3 @@
-
-# 🧠 Abhishek Kumar — Developer | Problem Solver | Tech Enthusiast
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&pause=100\&color=00FF41\&center=true\&vCenter=true\&width=700\&lines=Abhishek+Kumar;Java+Developer;Web+Developer;Python+Developer;Oracle+Certified;HackerRank+Certified;LeetCoder;Database+Designer;Problem+Solver)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> • 
   <img src="https://img.shields.io/github/followers/abhishekkumar177?label=Followers&style=social" alt="Followers" /> •   
