@@ -6,8 +6,6 @@
 
 ---
 
-
-
 <a target="_blank" align="right">
   <img align="right" height="250" width="380" alt="Coding GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 </a>
