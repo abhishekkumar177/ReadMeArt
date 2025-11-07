@@ -52,18 +52,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![Abhishek Kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177\&bg_color=0f0f0f\&color=e9e2e9\&line=27ce51\&point=eae6e6\&area=true\&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
-
----
-
-## 🪪 Badges & Certifications
-
-[![Holopin Badge](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="center">
