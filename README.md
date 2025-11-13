@@ -1,7 +1,7 @@
 ### Algolia
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=algolia&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikbarman7&theme=algolia&hide_border=true"/>
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=discord&hide_border=true"/>
