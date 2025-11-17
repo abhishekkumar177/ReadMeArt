@@ -145,14 +145,11 @@
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=monokai&hide_border=true"/>
-```
-
------
 
 ### Neon
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=neon&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhoy-Ghosh&theme=neon&hide_border=true"/>
 
 ### Nightowl
 
