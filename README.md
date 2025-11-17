@@ -11,7 +11,7 @@
 ### Bamboo
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=bamboo&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhoy-Ghosh&theme=bamboo&hide_border=true"/>
 
 
 
