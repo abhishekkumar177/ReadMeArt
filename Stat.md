@@ -1,37 +1,25 @@
-Certainly. Here are the code snippets for various themes for your GitHub stats card, presented as plain text with the code blocks.
 
------
+   
+  <a href="https://github.com/abhishekkumar177">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_bust=1" 
+      alt="abhishekkumar177's GitHub Stats" 
+    />
+  </a>
+  
+  <a href="https://github.com/abhishekkumar177">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+      alt="abhishekkumar177's Top Languages"
+    />
+  </a>
 
-**Dracula**
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula)
+<div align="center">
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
-**Gruvbox**
+</div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gruvbox)
-
-**Tokyonight**
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
-``
-
-**Synthwave**
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave)
-``
-
-**Radical**
-
-``
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-
-
-**High Contrast**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=highcontrast)
-
------
-
+![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
