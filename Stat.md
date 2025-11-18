@@ -1,25 +1,8 @@
 <p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=32\&pause=800\&color=00FF41\&center=true\&vCenter=true\&width=600\&lines=Abhishek+Kumar;Problem+Solver;Java+Developer;Python+Developer;Web+Developer;Oracle+Certified;HackerRank+Certified;LeetCoder;DBA+%26+Designer)
-
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile+Views&color=00FF41&style=flat" />
   <img src="https://img.shields.io/github/followers/abhishekkumar177?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars&style=social" />
 </p>
-
-## 👨‍💻 About Me
-
-Hi! I'm **Abhishek**, an enthusiastic tech learner passionate about building scalable applications, solving problems, and mastering backend + database design.
-
-💡 What I love:
-
-* Writing clean & optimized code
-* Designing efficient database schemas
-* Exploring Java, Python & web dev
-* Solving DSA problems (LeetCode, HackerRank)
 
 📚 Always learning and always improving.
 
@@ -44,7 +27,7 @@ Hi! I'm **Abhishek**, an enthusiastic tech learner passionate about building sca
 
 ## 🏅 GitHub Trophies
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/abhishekkumar177)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=discord)](https://github.com/abhishekkumar177)
 
 ---
 
