@@ -62,7 +62,7 @@
 > *"Consistency beats talent — I show up every day to get 1% better."*
 
    
-  <a href="https://github.com/Abhoy-Ghosh">
+  <a href="https://github.com/abhishekkumar177">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Abhoy-Ghosh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_bust=1" 
       alt="abhishekkumar177's GitHub Stats" 
