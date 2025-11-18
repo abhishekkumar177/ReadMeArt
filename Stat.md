@@ -1,5 +1,3 @@
-### 🚀 Aspiring Software Developer | Problem Solver | Java • Python • Web Dev | Oracle Certified
-
 <p align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=32\&pause=800\&color=00FF41\&center=true\&vCenter=true\&width=600\&lines=Abhishek+Kumar;Problem+Solver;Java+Developer;Python+Developer;Web+Developer;Oracle+Certified;HackerRank+Certified;LeetCoder;DBA+%26+Designer)
@@ -12,8 +10,6 @@
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars&style=social" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Abhishek**, an enthusiastic tech learner passionate about building scalable applications, solving problems, and mastering backend + database design.
@@ -25,24 +21,8 @@ Hi! I'm **Abhishek**, an enthusiastic tech learner passionate about building sca
 * Exploring Java, Python & web dev
 * Solving DSA problems (LeetCode, HackerRank)
 
-📚 Always learning. Always improving.
+📚 Always learning and always improving.
 
----
-
-## 🚀 Tech Stack
-
-### **Languages**
-
-✔️ Java ✔️ Python ✔️ JavaScript
-✔️ SQL  ✔️ HTML/CSS
-
-### **Frameworks & Tools**
-
-✔️ Spring Boot ✔️ JDBC ✔️ Servlets/JSP
-✔️ Git & GitHub ✔️ VS Code / IntelliJ
-✔️ Oracle DB ✔️ MySQL
-
----
 
 ## 🏆 Certifications
 
@@ -99,15 +79,6 @@ Hi! I'm **Abhishek**, an enthusiastic tech learner passionate about building sca
 ## ⭐ Fun Fact
 
 > *"Consistency beats talent — I show up every day to get 1% better."*
-
----
-
-If you want, I can also create:
-✅ A **minimalist version**
-✅ A **dark cyberpunk themed version**
-✅ A **professional portfolio-style version**
-
-Which style do you want next?
 
    
   <a href="https://github.com/Abhoy-Ghosh">
