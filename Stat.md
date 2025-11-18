@@ -1,10 +1,3 @@
-Got you — you want a **complete, polished, professional GitHub README** for yourself.
-Here is a **clean, modern, eye-catching** full README.md that fits your profile perfectly.
-
----
-
-# 🌟 Abhishek Kumar
-
 ### 🚀 Aspiring Software Developer | Problem Solver | Java • Python • Web Dev | Oracle Certified
 
 <p align="center">
