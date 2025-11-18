@@ -44,9 +44,7 @@ Hi! I'm **Abhishek**, an enthusiastic tech learner passionate about building sca
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=true&margin-w=10&column=6" />
-</p>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/abhishekkumar177)
 
 ---
 
